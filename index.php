@@ -10,8 +10,8 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/4.1.5/lazysizes.min.js"></script>
 </head>
 <body data-new-gr-c-s-check-loaded="14.1012.0" data-gr-ext-installed="">
-	<div id="jtvh1"><a href="https://github.com/techiesneh">
-	<h1>Jio TV Live</h1></div></a>
+	<div id="jtvh1"><a href="/">
+	<h1>tv.aravindnc.com</h1></div></a>
 <div id="content">
 <div class="container">
 <div id="list" class="row">
