@@ -55,23 +55,3 @@ https://jtok.herokuapp.com/j/
 
    ♢ <b>Depnding on Your Server Change Links<br>
    ♢ This Script is free for USE and Modify</b><br><br>
-
-<h2>🚸 Warnings :</h2>
-
-- This is Just For Educational Purpose
-- DO NOT Sell this Script, This is 💯% Free
-
-<h3>🤗 Meet Me : </h3>
-
-
-• For any Support About Script contact [@TechieSneh]
-• Or Contact at [techiesneh@protonmail.com](mailto:techiesneh@protonmail.com)
-
-<br>
-
-
----
-<h4 align='center'>© 2021 Techie Sneh</h4>
-
-<!-- DO NOT REMOVE THIS CREDIT 🤬 🤬 -->
-

@@ -9,23 +9,24 @@ if(@$_REQUEST["key"]!="")
 {
 	$opts = [
     "http" => [
+        // "proxy" => "https://111.93.30.66:3128",
+        // "request_fulluri" => true,
         "method" => "GET",
         "header" => "User-Agent: plaYtv/5.8.1 (Linux;Android 9) ExoPlayerLib/2.8.0\r\n" .
-		"lbcookie: 300\r\n" .
-"devicetype: Kodi\r\n" .
-"os: android\r\n" .
-"appkey: NzNiMDhlYzQyNjJm\r\n" .
-"deviceId: 2f5f4c6443fe0800\r\n" .
-"versionCode: 226\r\n" .
-"osVersion: 9\r\n" .
-"isott: true\r\n" .
-"languageId: 6\r\n" .
-"uniqueId: 8564e81a-adad-428f-b6e8-856fdaa029ec\r\n" . 
-"srno: 200206173037\r\n" .
-"usergroup: tvYR7NSNn7rymo3F\r\n" .
-"channelid: 472\r\n" .
-"ssotoken: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmlxdWUiOiI4NTY0ZTgxYS1hZGFkLTQyOGYtYjZlOC04NTZmZGFhMDI5ZWMiLCJ1c2VyVHlwZSI6IlJJTHBlcnNvbiIsImF1dGhMZXZlbCI6IjEwIiwiZGV2aWNlSWQiOm51bGwsImp0aSI6ImJhOTcwZTM4LTM3NDQtNDc4Mi1hOGQyLTFlNGI1ZmQzYjQwNyIsImlhdCI6MTYzMDA4MzcwM30.miE_LrdNfK3hvEzaNS34RiqQuVLewsOCHYtFVY7s9N8\r\n"
-	    
+            "lbcookie: 300\r\n" .
+            "devicetype: Kodi\r\n" .
+            "os: android\r\n" .
+            "appkey: NzNiMDhlYzQyNjJm\r\n" .
+            "deviceId: 2f5f4c6443fe0800\r\n" .
+            "versionCode: 226\r\n" .
+            "osVersion: 9\r\n" .
+            "isott: true\r\n" .
+            "languageId: 6\r\n" .
+            "uniqueId: 8564e81a-adad-428f-b6e8-856fdaa029ec\r\n" . 
+            "srno: 200206173037\r\n" .
+            "usergroup: tvYR7NSNn7rymo3F\r\n" .
+            "channelid: 472\r\n" .
+            "ssotoken: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmlxdWUiOiI4NTY0ZTgxYS1hZGFkLTQyOGYtYjZlOC04NTZmZGFhMDI5ZWMiLCJ1c2VyVHlwZSI6IlJJTHBlcnNvbiIsImF1dGhMZXZlbCI6IjEwIiwiZGV2aWNlSWQiOm51bGwsImp0aSI6ImJhOTcwZTM4LTM3NDQtNDc4Mi1hOGQyLTFlNGI1ZmQzYjQwNyIsImlhdCI6MTYzMDA4MzcwM30.miE_LrdNfK3hvEzaNS34RiqQuVLewsOCHYtFVY7s9N8\r\n"
     ]
 ];
 
